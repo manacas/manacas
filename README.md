@@ -4,10 +4,11 @@
   <a href="https://twitter.com/paulomanacas"><img src="https://img.shields.io/twitter/follow/paulomanacas?label=Twitter&style=social" alt="Twitter"></a>
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
-
 ### Experiment. Fail. Learn. Repeat.
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
 <!--
 **manacas/manacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
