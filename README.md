@@ -4,7 +4,7 @@
   <a href="https://twitter.com/paulomanacas"><img src="https://img.shields.io/twitter/follow/paulomanacas?label=Twitter&style=social" alt="Twitter"></a>
 </p>
 
-### Hi there 👋
+### Experiment. Fail. Learn. Repeat.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 
