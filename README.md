@@ -7,6 +7,7 @@
 ### Experiment. Fail. Learn. Repeat.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
 <!--
 **manacas/manacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
